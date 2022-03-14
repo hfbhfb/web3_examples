@@ -1,0 +1,3 @@
+{
+    "prettier.printWidth": 1111120, // 超过最大值换行
+}
